@@ -1,4 +1,4 @@
-module github.com/zhanxunchang/go-hello/hello
+module github.com/zhanxunchang/go-hello
 
 go 1.14
 
